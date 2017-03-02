@@ -1,0 +1,15 @@
+{
+  "name": "myfatmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Canlas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.0",
+    "yelp-fusion": "^1.0.3"
+  }
+}
