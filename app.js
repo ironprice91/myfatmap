@@ -2,7 +2,7 @@
 
 const express = require("express");
 const yelp = require("yelp-fusion");
-const KEYS = require("./secret.example");
+const KEYS = require("./secret");
 const app = express();
 
 const clientID = KEYS.clientID;
